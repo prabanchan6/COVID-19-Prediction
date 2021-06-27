@@ -1,2 +1,2 @@
 # COVID-19-Prediction
-COVID 19 Prediction using Supervised Machine Learning!
+COVID 19 Prediction, Covid patient's admission to ward using Supervised Machine Learning!
