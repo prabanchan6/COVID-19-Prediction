@@ -1,0 +1,6 @@
+This study used few supervised machine learning models to predict COVID 19 with the help of laboratory test results. The dataset involved pre-processing as 
+there were many missing data values. The features with more than 85% missing values were dropped from the dataset which resulted in dimensionality reduction.
+ExtraTreesClassifier is the feature extraction technique used in this study to extract the import features before training the classifier models used in this study. All the
+classifier models had good accuracy, and cross validation score in predicting COVID 19. Logistic Regression, SVC, and KNN were the highly efficient models with an accuracy,
+cross validation score of 91%, 90% respectively. The future work of this study can be done on a more balanced data to evaluate these classifier models as the precision,
+recall score were not applicable due to imbalance of the dataset.
